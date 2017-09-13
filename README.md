@@ -21,7 +21,7 @@ Project Team ISQA8086
     * Combine with Department of Insurance data (if available) comparing spending with rates of supplemental coverage.
 
 4. Software Engineering Teams
-> Estimate the number of successful project teams.
-> Understand collaboration techniques for successful projects.
-> Analyze success rate based on semester.
+   * Estimate the number of successful project teams.
+   * Understand collaboration techniques for successful projects.
+   * Analyze success rate based on semester.
 
