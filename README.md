@@ -8,17 +8,17 @@ Project Team ISQA8086
 
 ## Data Set Picks, and questions or issues that can be addressed:
 1. Air Quality and Greenhouse Gas Emissions
-    1.  What is the amount of greenhouse gases emited based on location?
-    2.  What have emission trends been over time and by geographic location: country, continent, etc...
+    *  What is the amount of greenhouse gases emited based on location?
+    *  What have emission trends been over time and by geographic location: country, continent, etc...
   
 2. College Scorecard
-    1. which school has highest admission rate
-    2. What have admission and graduation rate trends been over time for school or divisions?
+    * which school has highest admission rate
+    * What have admission and graduation rate trends been over time for school or divisions?
 
 3. Medicare Spending
-> Spending trends by geographic region.
-> Combine with demographic data to look at medicare spending by demographic factors.
-> Combine with Department of Insurance data (if available) comparing spending with rates of supplemental coverage.
+    * Spending trends by geographic region.
+    * Combine with demographic data to look at medicare spending by demographic factors.
+    * Combine with Department of Insurance data (if available) comparing spending with rates of supplemental coverage.
 
 4. Software Engineering Teams
 > Estimate the number of successful project teams.
